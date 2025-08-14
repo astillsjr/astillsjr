@@ -1,9 +1,13 @@
 # About me
+Hi 👋, I'm Anthony – I'm working towards becoming a full-stack developer.
 
+🛠 Tech Stack:
+- 💻 Languages: JavaScript, Python, TypeScript
+- 🌐 Frontend: React, TailwindCSS 
+- 🖥 Backend: SQL, Bash, Git
+- ☁️ DevOps: 
 
-
-
-- 🔭 I’m currently working on free certifications
-- 🌱 I’m currently learning responsive web design
-- 📫 How to reach me: anthonystills04@gmail.com / stills04@mit.edu
+📫 Reach me at:
+- Email: anthonystills04@gmail.com
+- LinkedIn: 
 
