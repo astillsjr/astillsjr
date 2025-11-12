@@ -1,15 +1,10 @@
 # About me
 Hello, I'm Anthony – I'm working towards becoming a full-stack developer.
 
-🛠 Tech Stack:
-- 💻 Languages: HTML, CSS, JavaScript, Python, TypeScript
-- 🌐 Frontend: Vue, React, TailwindCSS 
-- 🖥 Backend: SQL, MongoDB
-- ☁️ DevOps: 
-
-📌 Featured Projects:
-- [Incoming](https://github.com/astillsjr/incoming) – A work in progress...
-- [Incoming](https://github.com/astillsjr/incoming) – A work in progress...
+Tech Stack:
+- Languages: HTML, CSS, JavaScript, Python, TypeScript
+- Frontend: Vue, React, TailwindCSS 
+- Backend: SQL, MongoDB
 
 📫 Reach me at:
 - Email: anthonystills04@gmail.com
