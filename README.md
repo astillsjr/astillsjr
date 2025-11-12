@@ -6,7 +6,7 @@ Tech Stack:
 - Frontend: Vue, React, TailwindCSS 
 - Backend: SQL, MongoDB
 
-📫 Reach me at:
+Reach me at:
 - Email: anthonystills04@gmail.com
 - LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
 
