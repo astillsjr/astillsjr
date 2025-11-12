@@ -3,8 +3,8 @@ Hi 👋, I'm Anthony – I'm working towards becoming a full-stack developer.
 
 🛠 Tech Stack:
 - 💻 Languages: HTML, CSS, JavaScript, Python, TypeScript
-- 🌐 Frontend: React, TailwindCSS 
-- 🖥 Backend: SQL, Bash, Git
+- 🌐 Frontend: Vue, React, TailwindCSS 
+- 🖥 Backend: SQL, MongoDB
 - ☁️ DevOps: 
 
 📌 Featured Projects:
