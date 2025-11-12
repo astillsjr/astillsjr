@@ -1,5 +1,5 @@
 # About me
-Hi 👋, I'm Anthony – I'm working towards becoming a full-stack developer.
+Hello, I'm Anthony – I'm working towards becoming a full-stack developer.
 
 🛠 Tech Stack:
 - 💻 Languages: HTML, CSS, JavaScript, Python, TypeScript
